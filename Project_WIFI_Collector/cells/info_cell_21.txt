@@ -1,0 +1,9 @@
+Cell 21
+Address: 00:27:0D:56:0B:90
+ESSID:"WiFi-UC3M"
+Mode:Master
+Channel:11
+Encryption key:off
+Quality=31/70  
+Frequency:2.462 GHz
+Signal level=-79 dBm  

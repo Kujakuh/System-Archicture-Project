@@ -1,0 +1,18 @@
+Cell 9
+Address: 00:C0:CA:19:F1:20
+ESSID:"WLIT"
+Mode:Master
+Channel:40
+Encryption key:on
+Quality=32/70  
+Frequency:5.2 GHz
+Signal level=-78 dBm  
+Cell 9
+Address: 02:C0:CA:1B:34:24
+ESSID:"varon"
+Mode:Ad-Hoc
+Channel:40
+Encryption key:off
+Quality=31/70  
+Frequency:5.2 GHz
+Signal level=-79 dBm  

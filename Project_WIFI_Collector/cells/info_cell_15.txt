@@ -1,0 +1,18 @@
+Cell 15
+Address: 00:11:24:24:14:F0
+ESSID:"TSCWLANG"
+Mode:Master
+Channel:1
+Encryption key:on
+Quality=31/70  
+Frequency:2.412 GHz
+Signal level=-79 dBm  
+Cell 15
+Address: 00:26:CB:C6:82:C1
+ESSID:"eduroam"
+Mode:Master
+Channel:6
+Encryption key:on
+Quality=26/70  
+Frequency:2.437 GHz
+Signal level=-84 dBm  

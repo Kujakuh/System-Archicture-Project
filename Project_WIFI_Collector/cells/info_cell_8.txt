@@ -1,0 +1,18 @@
+Cell 8
+Address: 02:C0:CA:1B:34:24
+ESSID:"varon"
+Mode:Ad-Hoc
+Channel:40
+Encryption key:off
+Quality=36/70  
+Frequency:5.2 GHz
+Signal level=-74 dBm  
+Cell 8
+Address: 00:0D:54:99:7A:42
+ESSID:"WLIT"
+Mode:Master
+Channel:6
+Encryption key:on
+Quality=42/70  
+Frequency:2.437 GHz
+Signal level=-68 dBm  

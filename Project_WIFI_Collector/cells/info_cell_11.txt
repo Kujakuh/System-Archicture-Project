@@ -1,0 +1,18 @@
+Cell 11
+Address: 00:27:0D:56:01:6E
+ESSID:"eduroam"
+Mode:Master
+Channel:140
+Encryption key:on
+Quality=46/70  
+Frequency:5.7 GHz
+Signal level=-64 dBm  
+Cell 11
+Address: 06:C0:CA:19:F1:20
+ESSID:"WLITa"
+Mode:Master
+Channel:40
+Encryption key:on
+Quality=28/70  
+Frequency:5.2 GHz
+Signal level=-82 dBm  

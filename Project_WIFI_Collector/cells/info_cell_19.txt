@@ -1,0 +1,18 @@
+Cell 19
+Address: 00:16:38:C5:99:3C
+ESSID:"BEST"
+Mode:Master
+Channel:11
+Encryption key:on
+Quality=28/70  
+Frequency:2.462 GHz
+Signal level=-82 dBm  
+Cell 19
+Address: 06:C0:CA:19:F1:06
+ESSID:"WLIT-WPA"
+Mode:Master
+Channel:1
+Encryption key:on
+Quality=29/70  
+Frequency:2.412 GHz
+Signal level=-81 dBm  

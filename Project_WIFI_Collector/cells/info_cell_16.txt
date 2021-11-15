@@ -1,0 +1,18 @@
+Cell 16
+Address: 10:9A:DD:88:33:A5
+ESSID:"TSCWLANG"
+Mode:Master
+Channel:2
+Encryption key:on
+Quality=28/70  
+Frequency:2.417 GHz
+Signal level=-82 dBm  
+Cell 16
+Address: 02:18:F8:7A:31:48
+ESSID:"GAST-WIFI-LDAP"
+Mode:Master
+Channel:1
+Encryption key:on
+Quality=41/70  
+Frequency:2.412 GHz
+Signal level=-69 dBm  

@@ -1,0 +1,18 @@
+Cell 20
+Address: 00:27:0D:56:0B:90
+ESSID:"WiFi-UC3M"
+Mode:Master
+Channel:11
+Encryption key:off
+Quality=30/70  
+Frequency:2.462 GHz
+Signal level=-80 dBm  
+Cell 20
+Address: 00:11:24:24:14:F0
+ESSID:"TSCWLANG"
+Mode:Master
+Channel:1
+Encryption key:on
+Quality=32/70  
+Frequency:2.412 GHz
+Signal level=-78 dBm  

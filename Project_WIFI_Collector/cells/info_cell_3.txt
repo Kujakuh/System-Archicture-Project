@@ -1,0 +1,27 @@
+Cell 3
+Address: 02:21:91:1C:09:01
+ESSID:"WLAN_toto"
+Mode:Master
+Channel:6
+Encryption key:on
+Quality=41/70  
+Frequency:2.437 GHz
+Signal level=-69 dBm  
+Cell 3
+Address: 00:27:0D:56:01:60
+ESSID:"WiFi-UC3M"
+Mode:Master
+Channel:6
+Encryption key:off
+Quality=60/70  
+Frequency:2.437 GHz
+Signal level=-50 dBm  
+Cell 3
+Address: 00:1C:10:44:32:5B
+ESSID:"poseidon"
+Mode:Master
+Channel:11
+Encryption key:off
+Quality=42/70  
+Frequency:2.462 GHz
+Signal level=-68 dBm  

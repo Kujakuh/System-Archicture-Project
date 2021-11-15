@@ -1,0 +1,27 @@
+Cell 4
+Address: 00:14:7F:AC:D3:E9
+ESSID:"SpeedTouch57D5FB"
+Mode:Master
+Channel:6
+Encryption key:on
+Quality=23/70  
+Frequency:2.437 GHz
+Signal level=-87 dBm  
+Cell 4
+Address: 06:C0:CA:19:F1:09
+ESSID:"WLIT-WPA"
+Mode:Master
+Channel:1
+Encryption key:on
+Quality=32/70  
+Frequency:2.412 GHz
+Signal level=-78 dBm  
+Cell 4
+Address: 00:27:0D:56:01:61
+ESSID:"eduroam"
+Mode:Master
+Channel:6
+Encryption key:on
+Quality=55/70  
+Frequency:2.437 GHz
+Signal level=-55 dBm  

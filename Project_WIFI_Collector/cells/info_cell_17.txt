@@ -1,0 +1,18 @@
+Cell 17
+Address: 00:C0:CA:19:F1:09
+ESSID:"WLIT"
+Mode:Master
+Channel:1
+Encryption key:on
+Quality=43/70  
+Frequency:2.412 GHz
+Signal level=-67 dBm  
+Cell 17
+Address: 02:18:F8:7A:31:4B
+ESSID:"TESTGAST"
+Mode:Master
+Channel:1
+Encryption key:on
+Quality=41/70  
+Frequency:2.412 GHz
+Signal level=-69 dBm  

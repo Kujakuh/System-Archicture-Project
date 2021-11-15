@@ -1,0 +1,18 @@
+Cell 7
+Address: 06:C0:CA:19:F1:20
+ESSID:"WLITa"
+Mode:Master
+Channel:40
+Encryption key:on
+Quality=31/70  
+Frequency:5.2 GHz
+Signal level=-79 dBm  
+Cell 7
+Address: 00:C0:CA:19:F1:09
+ESSID:"WLIT"
+Mode:Master
+Channel:1
+Encryption key:on
+Quality=45/70  
+Frequency:2.412 GHz
+Signal level=-65 dBm  

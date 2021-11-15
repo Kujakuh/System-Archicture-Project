@@ -1,0 +1,27 @@
+Cell 5
+Address: 00:23:F8:B5:CD:22
+ESSID:"WLAN_58"
+Mode:Master
+Channel:9
+Encryption key:on
+Quality=28/70  
+Frequency:2.452 GHz
+Signal level=-82 dBm  
+Cell 5
+Address: 00:1C:10:44:32:5B
+ESSID:"poseidon"
+Mode:Master
+Channel:11
+Encryption key:off
+Quality=47/70  
+Frequency:2.462 GHz
+Signal level=-63 dBm  
+Cell 5
+Address: 06:C0:CA:19:F1:09
+ESSID:"WLIT-WPA"
+Mode:Master
+Channel:1
+Encryption key:on
+Quality=45/70  
+Frequency:2.412 GHz
+Signal level=-65 dBm  

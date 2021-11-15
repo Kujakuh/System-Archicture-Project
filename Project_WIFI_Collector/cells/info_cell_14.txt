@@ -1,0 +1,18 @@
+Cell 14
+Address: 00:18:F8:7A:31:4A
+ESSID:"GAST-WIFI"
+Mode:Master
+Channel:1
+Encryption key:on
+Quality=43/70  
+Frequency:2.412 GHz
+Signal level=-67 dBm  
+Cell 14
+Address: 00:1F:F3:C4:7D:7F
+ESSID:"TSC_M"
+Mode:Master
+Channel:11
+Encryption key:on
+Quality=31/70  
+Frequency:2.462 GHz
+Signal level=-79 dBm  

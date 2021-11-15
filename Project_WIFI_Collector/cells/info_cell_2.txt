@@ -1,0 +1,27 @@
+Cell 2
+Address: 00:1E:4C:B8:DC:F6
+ESSID:"Livebox-F568"
+Mode:Master
+Channel:1
+Encryption key:on
+Quality=45/70  
+Frequency:2.412 GHz
+Signal level=-65 dBm  
+Cell 2
+Address: 00:0D:54:99:7A:42
+ESSID:"WLIT"
+Mode:Master
+Channel:6
+Encryption key:on
+Quality=43/70  
+Frequency:2.437 GHz
+Signal level=-67 dBm  
+Cell 2
+Address: 90:84:0D:D8:46:89
+ESSID:"acrumin"
+Mode:Master
+Channel:11
+Encryption key:on
+Quality=37/70  
+Frequency:2.462 GHz
+Signal level=-73 dBm  

@@ -1,0 +1,18 @@
+Cell 10
+Address: 00:27:0D:56:01:6F
+ESSID:"WiFi-UC3M"
+Mode:Master
+Channel:140
+Encryption key:off
+Quality=45/70  
+Frequency:5.7 GHz
+Signal level=-65 dBm  
+Cell 10
+Address: 00:C0:CA:19:F1:20
+ESSID:"WLIT"
+Mode:Master
+Channel:40
+Encryption key:on
+Quality=28/70  
+Frequency:5.2 GHz
+Signal level=-82 dBm  
